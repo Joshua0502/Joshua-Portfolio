@@ -23,13 +23,17 @@ background: transparent;
 }
 
 .portfolio__item h3 {
-    margin: 1.2rem 0 2rem;
+   margin: 1.2rem 0 2rem;
+   text-align: center;
 }
 
 .portfolio__item-cta {
     display:flex;
     gap: 1rem;
-    margin-bottom: 1rem;
+    /* margin-bottom: 1rem;
+    margin-left: 7rem;
+    margin-right: auto; */
+    justify-content: center;
 }
 
 /* ---------------------MEDIA QUERIES (MEDIUM DEVICES)-----------------*/

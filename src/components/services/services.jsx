@@ -17,7 +17,7 @@ const services = () => {
           <ul className="service__list">
             <li>
               <AiOutlineCheck className="service__list-icon"/>
-              <p>Prototyping, wireframing, user flows, mockups</p>
+              <p>Prototyping and wireframing</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon"/>
@@ -44,7 +44,7 @@ const services = () => {
 
         <article className="service">
           <div className="service__head">
-            <h3>Web Development</h3>
+            <h3>Competencies</h3>
           </div>
 
           <ul className="service__list">
@@ -85,33 +85,33 @@ const services = () => {
 
         <article className="service">
           <div className="service__head">
-            <h3>Content Creation</h3>
+            <h3>Key Skills</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <AiOutlineCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Basic Software Development</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Design Thinking</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>User Research and Training</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>FronEnd Development</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Andriod Studio</p>
             </li>
             <li>
               <AiOutlineCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Adobe Photoshop</p>
             </li>
           </ul>
         </article>
